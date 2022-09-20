@@ -1,0 +1,11 @@
+ALL MATH 
+
+
+Discount Points 
+    For borrowers, one discount point equals 1% of the loan amount (not purchase price) and is charged as prepaid interest at the closing. For instance, three discount points charged on a $100,000 loan would be $3,000, which is $100,000 × 3%, or $100,000 × 0.03. If a house sells for $100,000 and the borrower seeks an $80,000 loan, each point would be $800, not $1,000. The points in a new acquisition may be paid in cash at closing by the buyer (or, of course, by the seller on the buyer's behalf, as negotiated by the parties) rather than being financed as part of the total loan amount.
+    To determine how many points are charged on a loan, divide the total dollar amount of the points by the amount of the loan. For example, if the loan amount is $350,000 and the charge for points is $9,275, how many points are being charged?
+        $9,275 ÷ $350,000 = 0.0265 or 2.65% or 2.65 points
+
+
+
+
