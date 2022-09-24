@@ -1,0 +1,28 @@
+Conventional Loans 
+    No government involvement 
+    1.) Debt repayment is based soley on the borrorwer's ability to repay. 
+        a) Loans are not insured or guaranteed. 
+    2.) Maximum LTV is 80%. 
+
+Insured Conventional Mortgages 
+    1.) Private mortgage insurance (PMI) protects lenders from loss due to a deficiency after foreclosure. 
+    2.) A borrower/mortgagor pays PMI when the LTV is above 80%.
+        a) PMI does not pay off the full loan. 
+         (1) PMI covers a portion of the shortfall between the amount obtained through the REO sale and the outstanding mortgage debt.
+        b) The advantage for the brrower is a lower down payment. 
+Private Mortgage Insruance (PMI)
+    Borrower defaults. (5% equity) 
+    Lender FCs then sells (15% PMI coverage) 
+    PMI partially indemnifies lender for losses over 80% LTV (80% No Coverage)
+
+5% Down Payment 
+95% LTV loan
+Pay PMI 
+
+20% Down Payment 
+80% LTV Loan 
+No PMI 
+
+
+
+
