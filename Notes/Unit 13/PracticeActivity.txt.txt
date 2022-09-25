@@ -34,3 +34,17 @@ Buydown
 
 Sale-and-leaseback 
     A business owner sells real estate to an investor but remains on the property as a tenant. 
+
+FCRA 
+    Gives the loan applicant the right to a copy of the credit report 
+    Requires notification within 30 days if a loan application is rejected 
+TILA 
+    Requires that consumers be notified of the sale of transfer of their mortgage loans 
+    Requires that credit institutions inform borrowers of the true cost of obtaining credit 
+CRA 
+    Requires the deposit and credit needs of local residents ot be met 
+    Helps banks meet communities' needs for low-and moderate-income housing 
+TILA 
+    Requires that consumers be notified of the sale of transfer of their mortgage loans 
+    Requires that credit institutions inform borrowers of the true cost of obtaining credit 
+
