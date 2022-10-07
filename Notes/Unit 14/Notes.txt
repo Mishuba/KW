@@ -156,9 +156,52 @@ Legislation Related To Closing
             In Practice
                 Although RESPA's requirements are aimed primarily at lenders, real estate professionals fall under RESPA when they refer buyers to particular lenders, title companies, attorneys, or other providers of settlement services. Real estate professionals who offer computerized loan origination are also subject to regulation. Remember: Buyers have the right to select their own providers of settlement services.
 
+    Mortgage Disclosure Improvement Act
+        The Mortgage Disclosure Improvement Act (MDIA), which took effect July 31, 2009, changed how buyers and sellers, lenders, mortgage brokers, title agents, and real estate professionals prepare for a closing. The intent of this law is to prevent the consumer from receiving an enticingly low interest rate at the initial loan application and then learning at settlement that the lender is charging more in fees.
+        The requirements of the MDIA are now incorporated into the CFPB disclosure requirements. Until the applicant/borrower receives the Loan Estimate, the lender may collect only a reasonable fee for accessing the applicant's credit history. In addition, the lender must provide a statement to the loan applicant indicating that the applicant is not obligated to complete the transaction simply because disclosures were provided or because the individual applied for a loan. Generally, if the APR increases more than 0.125% from that stated in the Closing Disclosure, the creditor must provide a new disclosure with a revised APR and wait an additional three business days before closing the loan. The consumer is permitted to accelerate the process if a personal emergency, such as a foreclosure, exists.
+        Before closing, everyone involved in the real estate transaction should check and double-check that the Loan Estimate and Closing Disclosure forms are consistent with the original application.
+
 Preparation of Closing Statements 
+    A typical real estate transaction requires accounting for the expenses incurred by either party, generally on the Closing Disclosure, which is required for any federally related closing. All expenses must be itemized to arrive at the exact amount of cash required from the buyer and the net proceeds that will be paid to the seller. These include prorated items—those prepaid by the seller for which the seller must be reimbursed (such as taxes) and expenses the seller has incurred but for which the buyer will be billed (such as mortgage interest paid in arrears when a loan is assumed).
 
+    How the closing statement works
+        The closing statement is an accounting of the parties' debits and credits. A debit is a charge—an amount that a party owes and must pay at closing. A credit is an amount entered in a person's favor—an amount that has already been paid, an amount being reimbursed, or an amount the buyer promises to pay in the form of a loan.
+        To determine the amount a buyer must bring to closing, any buyer expenses and prorated amounts for items prepaid by the seller are added to the purchase price. Then the buyer's credits are totaled. Credits to the buyer include the earnest money (already paid), the balance of the loan the buyer obtains or assumes, and the seller's share of any prorated items the buyer will pay in the future.
+        Finally, the total of the buyer's credits is subtracted from the total of the buyer's debits to arrive at the actual amount of cash the buyer must bring to closing. The buyer usually brings a cashier's or certified check.
+        A similar procedure is followed to determine the net proceeds to the seller. The seller's debits are subtracted from the seller's credits. Seller credits include the purchase price plus the buyer's share of any prorated items that the seller has prepaid. The seller's debits include expenses to be paid by the seller, the seller's share of prorated items to be paid by the buyer, and the balance of any mortgage loan or other lien that the seller must satisfy. (See  Credits and Debits.)
 
+    Broker's commission
+        The responsibility for paying a real estate broker's commission will have been determined by previous agreement. If the broker represents the seller, the seller is normally responsible for paying the commission. If a representation agreement exists between a broker and the buyer or if two representatives are involved, one for the seller and one for the buyer, the commission may be distributed as an expense between both parties or according to some other arrangement.
+
+    Attorney's Fees
+        If either of the parties' attorneys will be paid from the closing proceeds, that party will be charged with the expense in the closing statement. This expense may include fees for the preparation or review of documents or for representing the parties at settlement.
+
+    Recording Expenses 
+        The seller usually pays for any recording charges (filing fees) necessary to clear all defects and furnish the purchaser with a marketable title. Items customarily charged to the seller include the recording of any release deed or satisfaction of mortgage, quitclaim deed, affidavit, or satisfaction of a mechanic's lien. The buyer pays for recording charges that arise from the actual transfer of title. Usually, such items include the recording of the deed that conveys title to the purchaser and a mortgage or deed of trust executed by the buyer for the benefit of the lender.
+
+    Transfer Tax 
+        Most states, counties, and local municipalities require some form of transfer tax, conveyance fee, or tax stamps on real estate conveyances. Responsibility for this charge varies according to local practice and the terms of the sales contract.
+
+    Title Expenses 
+        Responsibility for title expenses varies according to local custom. In most areas, the seller is required to furnish evidence of good title and pay for the title search. If the buyer's attorney inspects the evidence or if the buyer purchases title insurance policies, the buyer is charged for the expense.
+
+    Loan Fees 
+        For a new loan, the lender generally charges an origination fee and could possibly charge discount points, particularly if the borrower wants a below-market interest rate.
+
+    Tax reserves and insurance reserves (escrow or impound accounts)
+        Most mortgage lenders require that borrowers provide funds to pay future real estate taxes and insurance premiums. These funds are held in an escrow account or impound account. A borrower starts the account at closing by depositing funds to cover at least the amount of unpaid real estate taxes from the date of the lien to the end of the current month. (The buyer receives a credit from the seller at closing for any unpaid taxes.) Afterward, an amount equal to one month's portion of the estimated taxes is included in the borrower's monthly mortgage payment.
+        The borrower is responsible for maintaining adequate property insurance as a condition of the mortgage loan. The first year's premium is paid in full at closing if it has not been paid earlier by the buyer, effective on the date of closing. The borrower's monthly loan payment typically will include principal and interest on the loan (unless the payment is interest-only), plus one-twelfth of the estimated taxes and insurance (PITI) that will be owed at the end of the coming year. The taxes and insurance are held by the lender in an escrow account until the bills are due.
+            In Practice
+                RESPA permits lenders to maintain a cushion equal to one-sixth of the total estimated amount of annual taxes and insurance. However, if state law or mortgage documents allow for a smaller cushion, the lesser amount prevails.
+
+    Appraisal fee
+        Either the seller or the purchaser pays the appraisal fee, depending on who orders the appraisal. When the buyer obtains a mortgage, it is customary for the lender to require an appraisal, in which case, the buyer usually bears the cost, although this is always a negotiable item. If the fee is paid at the time of the loan application, it is reflected on the closing statement as having been paid before closing.
+
+    Survey fee 
+        The purchaser who obtains new mortgage financing customarily pays a survey fee. The sales contract may require that the seller furnish a survey.
+
+    Additional fees 
+        If the borrower's loan is insured by FHA, the borrower owes a lump sum for payment of the mortgage insurance premium (MIP) if it is not financed as part of the loan. The borrower of a VA-guaranteed loan pays a funding fee directly to the Department of Veterans Affairs at closing. If a conventional loan carries private mortgage insurance (PMI), the buyer prepays one year's mortgage insurance premium at closing.
 
 
 Prorations 

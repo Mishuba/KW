@@ -26,4 +26,14 @@ Escrow
     - Third party acts on behalf of buyer and seller 
     - Buyer and seller execute escrow instructions 
     - Documents provided to escrow agent before closing 
+
+Prohibited
+    Unearned Fees for services (RESPA)
+    Fee-Splitting (RESPA)
+    Kickbacks (RESPA)
+
+Permitted 
+    Reasonable escrow deposits (RESPA)
+
+
     
