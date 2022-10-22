@@ -45,21 +45,17 @@ Ad valorem tax
 
 Exemptions from general taxes 
     Most state laws exempt certain real estate from taxation. Such property must be used for tax-exempt purposes, as defined in the statutes. The most common exempt properties are owned by
-
         cities,
         various municipal organizations (such as schools, parks, and playgrounds),
         state and federal governments,
         religious and charitable organizations,
         hospitals, and
         educational institutions.
-
     Many state laws also allow special exemptions to reduce real estate tax bills for certain property owners or land uses. For instance, senior citizens, veterans, and persons with a disability are frequently granted reductions in the assessed values of their homes. In some states, low-income seniors may request a property tax freeze on the principal residence, which means that the tax assessed will not increase during the remaining years of the senior's ownership and use of the property. In an effort to stem the recent record number of home foreclosures, some states have subsidized low-income homeowners' tax bills, without regard to the owners' ages.
-
     Some state and local governments offer real estate tax reductions to attract industries and sports franchises. Many states also offer tax reductions for agricultural land.
 
 Assessment 
     Real estate is valued for tax purposes by county or township assessors or appraisers. This official valuation process is called assessment. A property's assessed value is generally based on the sales prices of comparable properties, although practices may vary. Land values may be assessed separately from buildings or other improvements, and different valuation methods may be used for different types of property. State law may provide for property to be periodically reassessed.
-
     Sometimes, a property owner believes that an error was made in determining the assessed property value—usually that the assessment is too high in comparison with the assessments of neighboring properties. Such owners may present their objections to a local board of appeal or board of review. A protest or appeal regarding a tax assessment may ultimately be taken to court.
 
 Equalization 
@@ -67,37 +63,24 @@ Equalization
 
 Tax Rates 
     The process of arriving at a real estate tax rate begins with the adoption of a budget by each taxing district. Each budget covers the financial requirements of the taxing body for the coming fiscal year. The fiscal year may be the January through December calendar year or some other 12-month period designated by statute. The budget must include an estimate of all expenditures for the year.
-
     The next step is appropriation, which means that a taxing body authorizes the expenditure of funds and provides for the sources of the funding. Appropriation generally involves the adoption of an ordinance or the passage of a law that states the specific terms of the proposed taxation. Some states require voter approval of any real property tax increase.
-
     After appropriation or approval by voters, the amount to be raised from the general real estate tax is imposed on property owners through a tax levy. A tax levy is the formal action taken to impose the tax, usually by a vote of the taxing district's governing body.
-
     The tax rate for each taxing body is determined by state law or computed separately. Unless the tax rate has already been determined by state law, the total monies needed for the coming fiscal year are divided by the total assessments of all real estate located within the taxing body's jurisdiction.
-
     The tax rate may be stated in a number of ways. In many areas, it is expressed in mills. A mill is 1/1000 of a dollar, or $0.001. The tax rate may be expressed as a mills-per-dollar ratio—for instance, in dollars per hundred or in dollars per thousand. A tax rate of 0.032, or 3.2%, could be expressed as 32 mills, or $3.20 per $100 of assessed value or $32 per $1,000 of assessed value.
-
-    In Practice
-
-    An easy way to recall the value of a mill is to remember that there are 10 mills in a penny.
+        In Practice
+            An easy way to recall the value of a mill is to remember that there are 10 mills in a penny.
 
 Tax bills 
     A property owner's tax bill is computed by applying the tax rate to the assessed valuation of the property.
-
-    In Practice
-
-    A property is assessed for tax purposes at $160,000. At a tax rate of 3%, or 30 mills, the tax owed on the property is $4,800 ($160,000 × 0.03). If an equalization factor of 120% is used, the computation is in two steps: $160,000 × 1.20 = $192,000, and $192,000 × 0.03 = $5,760. The tax owed on the property is $5,760.
-
+        In Practice
+            A property is assessed for tax purposes at $160,000. At a tax rate of 3%, or 30 mills, the tax owed on the property is $4,800 ($160,000 × 0.03). If an equalization factor of 120% is used, the computation is in two steps: $160,000 × 1.20 = $192,000, and $192,000 × 0.03 = $5,760. The tax owed on the property is $5,760.
     The due dates for tax payments (also called the penalty dates) are set by statute. Taxes may be payable in 2 installments (semiannually), 4 installments (quarterly), or 12 installments (monthly). In some areas, taxes become due at the beginning of the current tax year and must be paid in advance (e.g., the year 2015 taxes must be paid at the beginning of 2014). In other areas, taxes are payable during the year after the taxes are levied (e.g., 2015 taxes are paid throughout 2015). In some states, taxes are paid one year in arrears, and you cannot pay any portion of the ad valorem taxes during the current year (e.g., 2014 taxes could not be paid until the tax books open in 2015). In still other areas, a partial payment is due in the year the tax is imposed, with the balance due in the following year (e.g., 2015 taxes are payable partly during 2015 and partly during 2016).
-
     Some states offer discounts and monthly payment plans to encourage prompt pay-ment of real property taxes. Penalties, typically in the form of monthly interest charges on overdue taxes, are added to all taxes that are not paid when due.
 
 Enforcement of tax Liens 
     Real estate taxes must be valid to be enforceable. That means they must be charged properly, must be used for a legal purpose, and must be applied equitably to all property. As previously mentioned, tax liens usually are given priority over all other liens against a property. Real estate taxes that have remained delinquent for the statutory period can be collected through a tax sale of the property. While the methods and details of the various states' tax sale procedures differ substantially, the results are the same.
-
     A tax sale is usually held according to a published notice after a court has rendered a judgment for overdue taxes, penalties, and administrative costs and has ordered that the property be sold. The sale is advertised in local newspapers, and a notice of sale is posted on the affected property. The county sheriff or other public official then holds a public sale of the property. Because a specific amount of delinquent tax and penalty must be collected, the purchaser at a tax sale must pay at least that amount. A certificate of sale is usually given to the highest bidder when that bidder pays the delinquent tax amount in cash. The certificate of sale gives the holder the right to take possession of the property.
-
     The holder of the certificate of sale may not immediately receive the deed to the property. Some states grant a period of redemption after the tax sale. In this case, the defaulted owner (or the defaulted owner's creditors) may redeem the property by paying the amount collected at the tax sale plus interest and charges (including any taxes levied since the sale). This is known as a statutory right of redemption. If the property is not redeemed within the statutory period, the certificate holder can apply for a tax deed (sheriff's deed). The quality of the title conveyed by a tax deed varies from state to state.
-
     In some states, the delinquent taxpayer may redeem the property any time before the tax sale. The taxpayer exercises this equitable right of redemption by paying the delinquent taxes plus interest and charges (any court costs or attorney's fees). An owner who does not exercise this right may force a sale.
 
 
