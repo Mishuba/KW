@@ -203,8 +203,77 @@ Preparation of Closing Statements
     Additional fees 
         If the borrower's loan is insured by FHA, the borrower owes a lump sum for payment of the mortgage insurance premium (MIP) if it is not financed as part of the loan. The borrower of a VA-guaranteed loan pays a funding fee directly to the Department of Veterans Affairs at closing. If a conventional loan carries private mortgage insurance (PMI), the buyer prepays one year's mortgage insurance premium at closing.
 
+Accounting for expenses
+    - Expenses paid out of the closing proceeds are debited only to the party making the payment. Occasionally, an expense item (e.g., an escrow fee, a settlement fee, or a transfer tax) may be shared by the buyer and the seller. In that case, each party is debited for that individual's share of the expense.
+
+    Extra Notes
+    - A debit on a closing statement is an amount for which the party is liable.
+
+    - RESPA permits a cushion in an escrow account of no more than one-sixth of the year's total disbursements to be held by the lender, but does not require a cushion.
 
 Prorations 
+    - Most closings involve the division of financial responsibility between the buyer and the seller for such items as loan interest, taxes, rents, fuel, and utility bills. These allowances are allocated between the parties in the required proportions, or prorations. Prorations are necessary to ensure that expenses and credits are divided fairly between the seller and the buyer.
+
+    General rules for prorating
+    - The rules or customs governing the computation of prorations for the closing of a real estate sale vary widely from state to state. The following are some general guidelines for preparing the closing statement:
+        • In most states, the seller owns the property on the day of closing, and prorations or apportionments are usually made up to and including the day of closing. A few states specify that the buyer owns the property on the closing date. In that case, adjustments are made as of the day preceding the day on which title is closed.
+        • Mortgage interest, general real estate taxes, water taxes, insurance premiums, and similar expenses are usually computed by using 360 days in a year and 30 days in a month. In some areas, however, prorations are computed on the basis of the actual number of days in the calendar month of closing. The agreement of sale should specify which method will be used.
+        • On almost every mortgage loan, the interest is paid in arrears. A mortgage payment due on June 1, for example, includes interest due for May. The buyer who places a new mortgage loan on May 31 may be pleasantly surprised to learn that the first mortgage payment is not due for another month.
+        • Accrued or prepaid general real estate taxes are usually prorated at the closing. In some states, real estate taxes are paid in advance; that is, if the tax year runs from January 1 to December 31, taxes for the coming year are due on January 1. In this case, the seller, who has prepaid a year's taxes, should be reimbursed for the portion of the year remaining after the buyer takes ownership of the property. In other areas, taxes are paid in arrears, on December 31 for the year just ended. In that case, the buyer should be credited by the seller for the time the seller occupied the property. When the amount of the current real estate tax cannot be determined definitely, the proration is usually based on the last obtainable tax bill, often with a percentage increase—say, 10%—to account for a likely reassessment.
+        • Special assessments for municipal improvements such as sewers, water mains, or streets are usually paid in annual installments over several years, with annual interest charged on the outstanding balance of future payments. The seller normally makes the current payments, and the buyer assumes all future payments. The special assessment installment generally is not prorated at the closing. A buyer may insist that the seller allow the buyer a credit for the seller's share of the interest to the closing date. The agreement of sale may address the manner in which special assessments will be handled at closing.
+        • Rent is usually adjusted on the basis of the actual number of days in the month of closing. The seller customarily receives the rents for the day of closing and pays all expenses for that day. If any rents for the current month are uncollected when the sale is closed, the buyer often agrees by a separate letter to collect the rents, if possible, and remit the prorated share to the seller.
+        • A security deposit made by a tenant to cover the cost of repairing damage caused by the tenant, or the last month's rent which has been collected in advance, are generally transferred by the seller to the buyer without prorating. The only exception would be if the property were being transferred in the last month of the lease; thus, the last month's rent would be prorated.
+
+    - Accrued items are expenses to be prorated (such as water bills and interest on an assumed mortgage) that are owed by the seller but will be paid after the sale by the buyer. The seller pays for these items by giving the buyer credits for them at closing.
+
+    - Prepaid items are expenses to be prorated (such as fuel oil in a tank) that have been prepaid by the seller but not fully used up, so they become credits to the seller.
+
+    The Arithmetic of Prorating
+    - The computation of a proration involves identifying a yearly charge for the item to be prorated, then dividing by 12 to determine a monthly charge for the item. Also, it is usually necessary to identify a daily charge for the item by dividing the monthly charge by the number of days in the month. These smaller portions are then multiplied by the number of months or days in the prorated period to determine the accrued or unearned amount that will be figured in the settlement.
+
+    - Using this general principle, there are two methods of calculating a proration:
+        • The yearly charge is divided by a 360-day year (called a banking or statutory year), or 12 months of 30 days each.
+        • The yearly charge is divided by 365 (a calendar year) to determine the daily charge, and the actual number of days in the proration period is determined, with this number multiplied by the daily charge.
+
+    - The final proration figure will vary slightly, depending on which computation method is used. The final figure also will vary according to the number of decimal places to which the division is carried. All the proration calculations here are computed by carrying the division to three decimal places and then rounding to the nearest cent only after the final proration figure is determined.
+
+    Accrued Items
+    - When the real estate tax is levied for the calendar year and is payable during that year or in the following year, the accrued portion is for the period from January 1 to the date of closing (or to the day before the closing in states where the sale date is excluded). If the current tax bill has not yet been issued, the parties must agree on an estimated amount based on the previous year's bill and any known changes in assessment or tax levy for the current year. If the assessment for the current year is not known, the parties may agree to add an estimated amount, say 10%, to the amount of the last assessment.
+
+    Sample Proration Calculator
+    - Assume that a sale is to be closed on September 17. Using a 360-day year, prorate the current real estate taxes of $3,600 for the accrued period of 8 months, 17 days. First determine the prorated cost of the real estate tax per month and day:
+
+        • $3,600 ÷ 12 months = $300 per month
+
+        • $300 ÷ 30 days = $10 per day
+
+    - Next, multiply these figures by the accrued period and add the totals to determine the prorated real estate tax:
+
+        • $300 × 8 months = $2,400
+
+        • $10 × 17 days = $170
+
+        • $2,400 + 170 = $2,570
+
+    - Thus, the accrued real estate tax for 8 months and 17 days is $2,570. This amount represents the seller's accrued earned tax. It will be a credit to the buyer and a debit to the seller on the closing statement.
+
+    Credits and Debts
+    - Look at my screenshots for the notes on this section 
+        • To compute this proration using the actual number of days in the accrued period, the following method is used:
+                + The accrued period from January 1 to September 17 runs 260 days (January's 31 days plus February's 28 days and so on, plus the 17 days of September).
+                    ~ $3,600 ÷ 365 days = $9.863 per day
+                    ~ $9.863 × 260 days = $2,564.38
+
+    - Although these examples show proration as of the date of settlement, the agreement of sale may indicate otherwise. For instance, if the buyer's possession date does not coincide with the settlement date, the parties could prorate according to the date of possession.
+        • In Practice
+                + On state licensing examinations, tax prorations are usually based on a 30-day month (360-day year) unless specified otherwise. This may differ from local custom regarding tax prorations. Many title insurance companies provide proration charts that detail tax factors for each day in the year. To determine a tax proration using one of these charts, multiply the factor given for the closing date by the annual real estate tax.
+
+    Math Concepts
+    - Computing Interim Interest
+        • Interim interest is charged by a lender when a borrower obtains a new loan. This interest is called interim because it is for the interim period of time from the day of closing through the end of the closing month. Most real estate loan interest is paid in arrears, but interim interest is an example of interest paid in advance.
+        • If closing on a loan on June 12, the borrower will owe interim interest for 19 days. The first full payment (PI) will be due August 1; this payment will include interest for July. If the closing is September 21, interim interest for 10 days will be paid at closing, and the first full payment will be due November 1 (paying interest for October).
+
+    Prepaid Items 
 
 
 
